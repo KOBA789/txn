@@ -1,0 +1,12 @@
+{
+  "name": "txn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hidekazu Kobayashi <kobahide789@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.0.7",
+    "ts-node": "^3.1.0",
+    "typescript": "^2.4.1"
+  }
+}

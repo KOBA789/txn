@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "target": "es2015",
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "downlevelIteration": true,
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "es2016", "es2017.object"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
